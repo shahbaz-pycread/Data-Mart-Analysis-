@@ -1,0 +1,3 @@
+# Data-Mart-Analysis
+
+Schema and case study can be download from [here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkxPUGJPRnYzRlVNbG5Pa2tCa0xaNFd4b1lud3xBQ3Jtc0tuT09HVHBudGszeGYwYUtLZERsb21jZjlTU2VmSktUaHRrLWhDRlN0M3VLVkxhVklqMEhpZ0FGc09VS0dEdnlfU1JKaDRScEVIUXlBUnJkUXJnMVdnMUJ3SXBnQXpna3dHRzFHYjFBajRFYmhRWlVjZw&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1TKk0Irg7jdtQkM9SKOZm04CZhne4Oovy%3Fusp%3Dsharing&v=qtNA4YUbcFk).
